@@ -1,0 +1,23 @@
+{
+	"displayName": "Suucha Firebase Analytics",
+	"category": "Unity",
+	"description": "Suucha Firebase Analytics",
+	"keywords": [
+		"suucha",
+		"logevent",
+		"firebase",
+		"analytics",
+		"unity"
+	],
+	"dependencies": {
+		"com.suucha.unity.core": "1.0.0",
+		"com.google.external-dependency-manager": "1.2.177",
+		"com.google.firebase.app": "11.3.0",
+		"com.google.firebase.analytics": "11.3.0"
+	},
+	"author": "suucha",
+	"name": "com.suucha.unity.firebase.analytics",
+	"version": "1.0.0",
+	"type": "library",
+	"unity": "2019.3"
+}
